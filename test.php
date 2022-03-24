@@ -1,3 +1,3 @@
 <?php
-return 1;asdasdasdasd
-?>ttytt
+return 1;
+?>ttyttSDASDASDASDA
