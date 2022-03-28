@@ -1,4 +1,3 @@
 <?php
 return 1;
-?>ttyttSDASDASDASDAAAAAAAAAAAasdddddddddddddddddddddddddddddddd
-asdasdasdadasdasdaasdasasdasdsadasdasdasdasdasddasdasdasdasdasdasxcfasfcadasdaqasdasdasdasdaasdasdasdd
+?>
